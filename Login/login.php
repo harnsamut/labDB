@@ -1,4 +1,4 @@
-<?PHP
+<?PHP   
 	session_start();
 	// Create connection to Oracle
 	$conn = oci_connect("system", "123456", "//localhost/XE");
